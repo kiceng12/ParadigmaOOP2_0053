@@ -45,3 +45,9 @@ class budi : public pekerja, public pelajar {
     }
 
 };
+
+int main() {
+    budi a(12);
+
+    return 0;
+}
